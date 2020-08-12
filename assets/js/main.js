@@ -50,7 +50,7 @@
   /*--/ Star Counter /--*/
   $('.counter').counterUp({
     delay: 15,
-    time: 2000
+    time: 4000
   });
 
   /*--/ Star Scrolling nav /--*/
