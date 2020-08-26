@@ -1,6 +1,6 @@
 /**
 * Template Name: DevFolio - v2.3.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+* Template URL: https://bootstrapmade.com/devfolio-bootstrap-project-html-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -49,7 +49,7 @@ a:hover {
   color: #4e4e4e;
 }
 
-.box-shadow, .paralax-mf, .interest-box, .work-box, .card-blog {
+.box-shadow, .paralax-mf, .interest-box, .project-box, .card-blog {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
 }
 
@@ -827,52 +827,52 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio
+# project
 --------------------------------------------------------------*/
-.work-box {
+.project-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
 }
 
-.work-box:hover img {
+.project-box:hover img {
   transform: scale(1.3);
 }
 
-.work-img {
+.project-img {
   display: block;
   overflow: hidden;
 }
 
-.work-img img {
+.project-img img {
   transition: all 1s;
 }
 
-.work-content {
+.project-content {
   padding: 2rem 3% 1rem 4%;
 }
 
-.work-content .w-more {
+.project-content .w-more {
   color: #4e4e4e;
   font-size: .8rem;
 }
 
-.work-content .w-more .w-ctegory {
+.project-content .w-more .w-ctegory {
   color: #0078ff;
 }
 
-.work-content .w-like {
+.project-content .w-like {
   font-size: 2.5rem;
   color: #0078ff;
   float: right;
 }
 
-.work-content .w-like a {
+.project-content .w-like a {
   color: #0078ff;
 }
 
-.work-content .w-like .num-like {
+.project-content .w-like .num-like {
   font-size: .7rem;
 }
 
@@ -881,27 +881,27 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# project Details
 --------------------------------------------------------------*/
-.portfolio-details {
+.project-details {
   padding-top: 30px;
 }
 
-.portfolio-details .portfolio-details-container {
+.project-details .project-details-container {
   position: relative;
 }
 
-.portfolio-details .portfolio-details-carousel {
+.project-details .project-details-carousel {
   position: relative;
   z-index: 1;
 }
 
-.portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
+.project-details .project-details-carousel .owl-nav, .project-details .project-details-carousel .owl-dots {
   margin-top: 5px;
   text-align: left;
 }
 
-.portfolio-details .portfolio-details-carousel .owl-dot {
+.project-details .project-details-carousel .owl-dot {
   display: inline-block;
   margin: 0 10px 0 0;
   width: 12px;
@@ -910,11 +910,11 @@ a:hover {
   background-color: #ddd !important;
 }
 
-.portfolio-details .portfolio-details-carousel .owl-dot.active {
+.project-details .project-details-carousel .owl-dot.active {
   background-color: #0078ff !important;
 }
 
-.portfolio-details .portfolio-info {
+.project-details .project-info {
   padding: 30px;
   position: absolute;
   right: 0;
@@ -924,7 +924,7 @@ a:hover {
   z-index: 2;
 }
 
-.portfolio-details .portfolio-info h3 {
+.project-details .project-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -932,36 +932,36 @@ a:hover {
   border-bottom: 1px solid #eee;
 }
 
-.portfolio-details .portfolio-info ul {
+.project-details .project-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
 }
 
-.portfolio-details .portfolio-info ul li + li {
+.project-details .project-info ul li + li {
   margin-top: 10px;
 }
 
-.portfolio-details .portfolio-description {
+.project-details .project-description {
   padding-top: 50px;
 }
 
-.portfolio-details .portfolio-description h2 {
+.project-details .project-description h2 {
   width: 50%;
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
-.portfolio-details .portfolio-description p {
+.project-details .project-description p {
   padding: 0 0 0 0;
 }
 
 @media (max-width: 768px) {
-  .portfolio-details .portfolio-description h2 {
+  .project-details .project-description h2 {
     width: 100%;
   }
-  .portfolio-details .portfolio-info {
+  .project-details .project-info {
     position: static;
     margin-top: 30px;
   }

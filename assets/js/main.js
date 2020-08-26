@@ -139,7 +139,7 @@
   });
 
   // Portfolio details carousel
-  $(".portfolio-details-carousel").owlCarousel({
+  $(".project-details-carousel").owlCarousel({
     autoplay: true,
     dots: true,
     loop: true,
