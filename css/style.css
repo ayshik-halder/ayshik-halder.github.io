@@ -88,21 +88,21 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #c32865;
+  background: #B4273A;
 }
 
 ::selection{
-  background-color:#c32865;
+  background-color:#B4273A;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#c32865;
+    background-color:#B4273A;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#c32865;
+    background-color:#B4273A;
     color:#fff;
 }
 
@@ -226,7 +226,7 @@ blockquote{
   padding: 0;
   width: 80%;
   padding-left: 6.8rem;
-  border-left: 0.3rem solid #c32865;
+  border-left: 0.3rem solid #B4273A;
   margin-top: 5rem;
   color:#fff;
 }
@@ -240,14 +240,14 @@ cite{
 }
 
 a {
-  color:#c32865;
+  color:#ffffff;
   -webkit-transition: color .3s ease-out;
        -o-transition: color .3s ease-out;
           transition: color .3s ease-out;
 }
 
 a:hover {
-  color:#c32865;
+  color:#ffffff;
   outline: none;
 }
 
@@ -303,7 +303,7 @@ input[type='email']:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 textarea:focus{
-  border-color: #c32865;
+  border-color: #B4273A;
   outline: 0;
   color: #fff;
 }
@@ -358,7 +358,7 @@ label.error{
   border:0;
   border-radius: 0;
   padding: 1.1em 2.28em 1em;
-  background-color: #c32865;
+  background-color: #B4273A;
   text-decoration: none;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
@@ -400,8 +400,8 @@ label.error{
 }
 
 .ion-ios-play:hover{
-  color: #c32865;
-  border: 1px solid #c32865;
+  color: #B4273A;
+  border: 1px solid #B4273A;
 }
 
 .ion-ios-play:after {
@@ -460,7 +460,7 @@ label.error{
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #c32865;
+  background-color: #B4273A;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -470,8 +470,8 @@ label.error{
 }
 
 .double-bounce2 {
-  -webkit-animation-delay: -1.0s;
-  animation-delay: -1.0s;
+  -webkit-animation-delay: -.05s;
+  animation-delay: -.05s;
 }
 
 @-webkit-keyframes sk-bounce {
@@ -657,7 +657,7 @@ a.brand:focus{
 }
 
 .navbar-toggle:hover .icon-bar{
-  background-color:  #c32865;
+  background-color:  #B4273A;
 }
 
 .navbar .social-list{
@@ -692,7 +692,7 @@ a.brand:focus{
 }
 
 .social-list a:hover{
-  color:#c32865;
+  color:#B4273A;
   text-decoration: none;
 }
 
@@ -793,7 +793,7 @@ a.brand:focus{
 }
 
 .close-menu:hover{
-  color: #c32865;
+  color: #B4273A;
 }
 
 .menu-list{
@@ -888,7 +888,7 @@ a.brand:focus{
 }
 
 .menu-footer .social-list a:hover{
-  color:#c32865;
+  color:#B4273A;
 }
 
 .menu-footer .copy{
@@ -1034,7 +1034,7 @@ a.brand:focus{
 #pp-nav .pp-nav-down:hover,
 #pp-nav.white .pp-nav-up:hover,
 #pp-nav.white .pp-nav-down:hover{
-  color: #c32865;
+  color: #B4273A;
 }
 
 #pp-nav.white .pp-nav-up,
@@ -1053,7 +1053,7 @@ a.brand:focus{
 
 #pp-nav li .active span, .pp-slidesNav .active span{
   opacity: 1;
-  background: #c32865;
+  background: #B4273A;
   transform:scale(1.6);
 }
 
@@ -1267,7 +1267,7 @@ a.brand:focus{
 
 .icon-specialization{
   font-size:5rem;
-  color:#c32865;
+  color:#B4273A;
 }
 
 .row-specialization{
@@ -1303,10 +1303,10 @@ a.brand:focus{
 
 .resume-row{
   position: relative;
-  padding-bottom: 2.2rem;
-  margin-bottom: 2.2rem;
-  border-bottom: 1px solid #fff;
-  transition:all 0.5s;
+  padding-bottom: 2.0rem;
+  margin-bottom: 2.0rem;
+  border-bottom: 0.5px solid #fff;
+  transition:all 1s;
 }
 
 .resume-row:last-child{
@@ -1324,7 +1324,7 @@ a.brand:focus{
 }
 
 .col-resume:hover{
-  background: #831422;
+  background: #B4273A;
 }
 
 .resume-type{
@@ -1372,7 +1372,7 @@ a.brand:focus{
   transition:background 0.5s, top 0.5s;
 }
 .experience-box:hover{
-  background: #831422;
+  background: #B4273A;
 }
 
 .experience-border{
@@ -1471,7 +1471,7 @@ a.brand:focus{
 }
 
 .progress-bar{
-  background-color:#c32865;
+  background-color:#B4273A;
   height: 100%;
 }
 
@@ -1638,7 +1638,7 @@ a.brand:focus{
 
 
 .view-all a:hover{
-  color:#c32865;
+  color:#B4273A;
   text-decoration: none;
 }
 
@@ -1886,7 +1886,7 @@ a.brand:focus{
 }
 
 .owl-dot.active span{
-  background: #c32865;
+  background: #B4273A;
   transform:scale(1.4);
 }
 
