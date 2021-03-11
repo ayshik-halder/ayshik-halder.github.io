@@ -1784,9 +1784,14 @@ a.brand:focus{
 }
 
 .review-row{
-  position: relative;
+  /* position: relative;
   padding-top:3rem;
-  padding-bottom: 5rem;
+  padding-bottom: 5rem; */
+  position:relative;
+  top:0;
+  padding:2.2rem 3.6rem 3.6rem;
+  background: rgba(255,255,255,0.1);
+  transition:background 0.5s, top 0.5s;
 }
 
 .review-row:before{
