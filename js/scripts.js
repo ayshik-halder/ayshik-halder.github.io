@@ -171,6 +171,7 @@
 		});
 
      }
+	 
 
      $('.pp-scrollable').on('scroll', function () {
     	var scrollTop =$(this).scrollTop();
@@ -256,3 +257,5 @@
 
 
 })(jQuery);
+
+
