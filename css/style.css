@@ -24,10 +24,10 @@
   3.  Homepage
 
       3.1 Sections
-      3.2 Section Specialization
+      3.2 Section page2
       3.3 Section Resume
       3.4 Section About
-      3.5 Section Projects
+      3.5 Section page5
       3.6 Section Partners
       3.7 Section Testimonials
 
@@ -711,24 +711,24 @@ a.brand:focus{
   text-transform: uppercase;
 }
 
-.contacts{
+.page8{
   float: left;
   margin-left: 9rem;
   margin-top:0.5rem;
 }
 
-.contacts .contact-item{
+.page8 .contact-item{
   display: inline-block;
   color: #fff;
   margin-right:2rem;
 }
 
-.contacts .contact-item a{
+.page8 .contact-item a{
   color: #fff;
 }
 
 
-.contacts .contact-item.spacer{
+.page8 .contact-item.spacer{
   opacity: 0.3;
 }
 
@@ -1262,20 +1262,20 @@ a.brand:focus{
 
 
 
-/* 3.2 Section Specialization */
+/* 3.2 Section page2 */
 
 
 
-.icon-specialization{
+.icon-page2{
   font-size:5rem;
   color:#B4273A;
 }
 
-.row-specialization{
+.row-page2{
   margin:0 -2rem;
 }
 
-.col-specialization{
+.col-page2{
   padding:0 2rem;
 }
 
@@ -1450,11 +1450,11 @@ a.brand:focus{
 .progress-bar-wrp{
   width: 0;
   overflow: hidden;
-  transition:all 0.5s;
+  transition:all 1s;
   height: 100%;
 }
 
-.progress:nth-child(2) .progress-bar-wrp{
+/* .progress:nth-child(2) .progress-bar-wrp{
   transition-delay:0.2s;
 }
 
@@ -1464,7 +1464,7 @@ a.brand:focus{
 
 .progress:nth-child(6) .progress-bar-wrp{
   transition-delay:0.8s;
-}
+} */
 
 .section.active .progress-bar-wrp,
 .pp-easing .progress-bar-wrp{
@@ -1483,7 +1483,7 @@ a.brand:focus{
 
 
 
-/* 3.5 Section Projects*/
+/* 3.5 Section page5*/
 
 
 
@@ -1538,7 +1538,7 @@ a.brand:focus{
   margin-bottom: 3rem;
 }
 
-.view-all-projects,
+.view-all-page5,
 .project-row,
 .project-detail-row{
   padding-left:3rem;
@@ -1645,7 +1645,7 @@ a.brand:focus{
 
 @media (min-width: 768px){
 
-  .view-all-projects,
+  .view-all-page5,
   .project-row,
   .project-detail-row{
     padding-left: 20%;
