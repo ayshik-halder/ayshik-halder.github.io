@@ -505,6 +505,9 @@ label.error{
 .text-white{
   color: #fff;
 }
+.text-align-right{
+  text-align: right;
+}
 
 .text-primary{
   color:#B4273A!important;
@@ -1166,7 +1169,7 @@ a.brand:focus{
 .section.active .intro{
   opacity: 1;
   transform: scale(1) translate(0);
-}*/
+} */
 
 
 .fadeY{
