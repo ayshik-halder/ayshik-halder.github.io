@@ -5,7 +5,7 @@
 
 
 ## Screenshots
-![Example screenshot](./images/Preview.png)
+![Example screenshot](./images/Preview.webp)
 ## Status
 Website is still under development as of March 2021.
 ## Things to do
