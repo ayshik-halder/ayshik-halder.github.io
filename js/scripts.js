@@ -33,10 +33,10 @@
 	$(".animsition").animsition({
 	   inClass: 'fade-in',
        outClass: 'fade-out',
-	   inDuration: 1000,
-	   outDuration: 700,
+	   inDuration: 700,
+	   outDuration: 500,
 	   linkElement: 'a.project-box',
-	   // e.g. linkElement: 'a:not([target="_blank"]):not([href^="#"])'
+	   // e.g. linkElement: 'a:not([rel="noreferrer" target="_blank"]):not([href^="#"])'
 	   loading:true,
 	   loadingParentElement: 'body', //animsition wrapper element
 	   loadingClass: 'spinner',
