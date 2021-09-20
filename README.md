@@ -21,7 +21,7 @@ Website is still under development as of March 2021.
   <i>You can reach me on given below places. Dont forget to star my Repositories and following me on GitHub for more content.</i>
   <p align="center">
     <a href="https://www.linkedin.com/in/ayshik-h-50aba0139/" rel="noreferrer" target="_blank" alt="Linkedin"><img src="images/linkedin-fill.svg" ></a>
-    <a href="mailto:halderayshik@gmail.com" rel="noreferrer" target="_blank" alt="Contact me"><img src="images/mail-fill.svg"></a>
+    <a href="mailto:work.ayshik@gmail.com" rel="noreferrer" target="_blank" alt="Contact me"><img src="images/mail-fill.svg"></a>
   </p>
   
 
