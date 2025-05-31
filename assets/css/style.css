@@ -338,7 +338,7 @@ h1 {
 }
 h1 span {
     color: var(--secondary_color);
-    font-weight: 900;
+    font-weight: 800;
 }
 .d2c_hero_wrapper h4 {
     letter-spacing: 6px;
