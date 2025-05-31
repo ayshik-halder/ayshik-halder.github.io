@@ -1,0 +1,859 @@
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+    /* Global Style Start */
+    section {
+        padding: 50px 0px 0px;
+    }
+    .container {
+        padding: 0px 15px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+    h6 {
+        font-size: 16px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .d2c_img_wrapper {
+        width: 100%;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 8px 26px 7px;
+    }
+    .d2c_icon {
+        width: 24px;
+        height: 24px;
+    }
+    /* Global Style End */
+
+    /* Navbar Start */
+    .d2c_navbar .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 7px 27px 6px;
+        width: 100%;
+        text-align: center;
+        background: #151928;
+    }
+    .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+        color: #5E6AD2;
+    }
+    .d2c_navbar .navbar-nav .nav-item {
+        margin: 2px 0px;
+    }
+    /* Navbar End */
+    /* Hero Start */
+    h1 {
+        font-size: 38px;
+        line-height: 100%;
+        margin-bottom: 20px;
+    }
+    .d2c_hero_wrapper h4 {
+        letter-spacing: 2px;
+    }
+    .d2c_hero_wrapper h5 {
+        letter-spacing: 1px;
+        margin-bottom: 14px;
+    }
+    .d2c_hero_wrapper .d2c_img_wrapper {
+        height: 370px;
+    }
+    .d2c_hero_wrapper img {
+        border-radius: 100px 0px 0px 0px;
+    }
+    .d2c_hero_wrapper .d2c_img_overlay {
+        border-radius: 100px 0px 0px 0px;
+    }
+    /* Hero End */
+    /* About Start */
+    .d2c_about_wrapper .d2c_img_wrapper {
+        width: 100%;
+        height: 370px;
+    }
+    .d2c_about_wrapper img {
+        border-radius: 0px 100px 0px 0px;
+    }
+    .d2c_about_wrapper .d2c_img_overlay {
+        border-radius: 0px 100px 0px 0px;
+    }
+    .d2c_about_wrapper p {
+        margin-bottom: 20px;
+    }
+    .d2c_about_wrapper ul li {
+        font-size: 15px;
+        padding: 6px 0px;
+        font-weight: 400;
+    }
+    .d2c_icon  {
+        margin-right: 12px;
+    }
+    .d2c_about_wrapper i {
+        font-size: 12px;
+    }
+    /* About End */
+    /* Services Start */
+    .d2c_services_wrapper .d2c_card_child_three {
+        padding: 20px;
+    }
+    .d2c_card h6 {
+        margin-bottom: 16px;
+    }
+    /* Services End */
+    /* Counter Start */
+    .d2c_count_wrapper {
+        padding: 30px 20px;
+    }
+    .d2c_counter_wrapper h1 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+    .d2c_counter_wrapper h6 {
+        font-size: 16px;
+    }
+    /* Counter Start */
+    /* Why Choose Me Start */
+    .d2c_choose_me_wrapper .d2c_img_wrapper {
+        height: 370px;
+    }
+    .d2c_choose_me_wrapper .d2c_img_overlay {
+        border-radius: 0px 100px 0px 0px;
+    }
+    .d2c_choose_me_wrapper img {
+        border-radius: 0px 100px 0px 0px;
+    }
+    .d2c_choose_me_wrapper .d2c_icon {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+    .d2c_choose_me_wrapper h4 {
+        font-size: 20px;
+    }
+    /* Why Choose Me Start */
+    /* Call To Action Start */
+    .d2c_c2a_card {
+        padding: 30px 20px;
+    }
+    .d2c_c2a_card h2 {
+        font-size: 25px;
+        padding: 0px 0px;
+        margin-bottom: 20px;
+    }
+    .d2c_c2a_card p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    /* Call To Action Start */
+    /* Project Start */
+    .d2c_project_wrapper .d2c_large_img {
+        height: 400px;
+    }
+    .d2c_project_wrapper p {
+        margin-bottom: 40px;
+    }
+    .d2c_project_wrapper h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .d2c_project_wrapper .d2c_card_child_three p {
+        font-size: 14px;
+        margin-bottom: 22px;
+        padding-right: 15px;
+    }
+    .d2c_project_wrapper h4 {
+        font-size: 15px;
+    }
+    .d2c_project_wrapper ul li {
+        padding: 5px 0px;
+    }
+    /* Project End */
+    /* Partner Start */
+    .d2c_partner_box {
+        padding: 20px 25px 20px;
+    }
+    .d2c_partner_box h2 {
+        margin-bottom: 15px;
+    }
+    .d2c_card_child_three {
+        padding: 15px 20px;
+    }
+    /* Partner End */
+    /* Testimonial Start */
+    .d2c_testimonial_wrapper {
+        padding: 50px 0px 60px;
+    }
+    .d2c_testimonial_wrapper h2 {
+        margin-bottom: 16px;
+    }
+    .d2c_testimonial_wrapper h4{
+        font-size: 16px;
+        line-height: 24px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .d2c_carousel_left_btn {
+        top: 300px;
+        left: 40%;
+    }
+    .d2c_carousel_right_btn {
+        top: 300px;
+        right: 40%;
+    }
+    .d2c_testimonial_wrapper i {
+        font-size: 12px;
+    }
+    .d2c_testimonial_wrapper h6 {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .d2c_testimonial_wrapper p {
+        font-size: 15px;
+    }
+    .slick-arrow {
+        width: 32px;
+        height: 32px;
+        font-size: 12px;
+    }
+    /* Testimonial End */
+    /* Contact Start */
+    .d2c_contact_wrapper {
+        padding: 50px 0px 50px;
+    }
+    .form-label {
+        font-size: 17px;
+    }
+    .form-control {
+        padding: 8px;
+    }
+    /* Contact End */
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 50px 0px;
+    }
+    .d2c_footer_card {
+        padding: 20px;
+    }
+    .d2c_footer_card h3 {
+        margin-bottom: 25px;
+    }
+    .d2c_footer_wrapper .form-control {
+        padding: 6px 10px;
+    }
+    .d2c_footer_card ul li a {
+        font-size: 16px;
+    }
+    /* Footer End */
+    /* Copy Right Start */
+    .d2c_copy_right_wrapper p {
+        font-size: 17px;
+    }
+    #scrollBtn.show {
+        display: none;
+    }
+    /* Copy Right End */
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    /* Global Style Start */
+    section {
+        padding: 70px 0px 20px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .d2c_img_wrapper {
+        width: 100%;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 7px 26px 6px;
+    }
+    .d2c_icon {
+        width: 24px;
+        height: 24px;
+    }
+    /* Global Style End */
+
+    /* Navbar Start */
+    .d2c_navbar .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 7px 27px 6px;
+        width: 100%;
+        text-align: center;
+        background: #151928;
+    }
+    .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+        color: #5E6AD2;
+    }
+    .d2c_navbar .navbar-nav .nav-item {
+        margin: 2px 0px;
+    }
+    /* Navbar End */
+    /* Hero Start */
+    .d2c_hero_wrapper h4 {
+        letter-spacing: 3px;
+    }
+    h1 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .d2c_hero_wrapper h5 {
+        margin-bottom: 16px;
+        letter-spacing: 4px;
+    }
+    .d2c_hero_wrapper p {
+        padding-right: 0 !important;
+        margin-bottom: 25px;
+    }
+    .d2c_hero_wrapper h5 {
+        letter-spacing: 1px;
+    }
+    .d2c_hero_wrapper .d2c_img_overlay {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_hero_wrapper img {
+        border-radius: 140px 0px 0px 0px;
+    }
+    /* Hero End */
+    /* About Start */
+    .d2c_about_wrapper ul li {
+        font-weight: 400;
+    }
+    .d2c_about_wrapper .d2c_img_overlay {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_about_wrapper img {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_about_wrapper .d2c_img_wrapper {
+        width: 100%;
+    }
+    .d2c_about_wrapper p {
+        margin-bottom: 20px;
+    }
+    .d2c_about_wrapper ul li {
+        font-size: 16px;
+        padding: 9px 0px;
+    }
+    .d2c_about_wrapper i {
+        font-size: 14px;
+    }
+    /* About End */
+    /* Services Start */
+    .d2c_services_wrapper .d2c_card_child_three {
+        padding: 20px;
+    }
+    .d2c_card h6 {
+        margin-bottom: 16px;
+    }
+    /* Services End */
+    /* Counter Start */
+    .d2c_count_wrapper {
+        padding: 30px 30px;
+    }
+    .d2c_counter_wrapper h1 {
+        font-size: 36px;
+    }
+    .d2c_counter_wrapper h6 {
+        font-size: 17px;
+    }
+    /* Counter End */
+    /* Why Choose Me Start */
+    .d2c_choose_me_wrapper .d2c_img_overlay {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_choose_me_wrapper img {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_choose_me_wrapper .d2c_icon {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+    .d2c_project_wrapper .d2c_card_child_three p {
+        padding-right: 10px;
+    }
+    /* Why Choose Me Start */
+    /* Call To Action Start */
+    .d2c_c2a_card {
+        padding: 30px 40px;
+    }
+    .d2c_c2a_card h2 {
+        padding: 0px 50px;
+        margin-bottom: 20px;
+    }
+    .d2c_c2a_card p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    /* Call To Action Start */
+    /* Project Start */
+    .d2c_project_wrapper .d2c_large_img {
+        height: 400px;
+    }
+    .d2c_project_wrapper p {
+        margin-bottom: 40px;
+    }
+    .d2c_project_wrapper h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .d2c_project_wrapper .d2c_card_child_three p {
+        font-size: 14px;
+        margin-bottom: 22px;
+    }
+    .d2c_project_wrapper h4 {
+        font-size: 15px;
+    }
+    .d2c_project_wrapper ul li {
+        padding: 5px 0px;
+    }
+    /* Project End */
+    /* Partner Start */
+    .d2c_partner_box {
+        padding: 50px 80px 40px;
+    }
+    .d2c_partner_box h2 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    /* Partner End */
+    /* Testimonial Start */
+    .d2c_testimonial_wrapper {
+        padding: 70px 0px 90px;
+    }
+    .d2c_testimonial_wrapper h2 {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper h4{
+        font-size: 19px;
+        line-height: 29px;
+        font-weight: 400;
+    }
+    .d2c_carousel_left_btn {
+        top: 250px;
+        left: 44%;
+    }
+    .d2c_carousel_right_btn {
+        top: 250px;
+        right: 44%;
+    }
+    .slick-arrow {
+        width: 36px;
+        height: 36px;
+        font-size: 12px;
+    }
+    /* Testimonial End */
+    /* Contact Start */
+    .d2c_contact_wrapper {
+        padding: 60px 0px 70px;
+    }
+    /* Contact End */
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 70px 0px;
+    }
+    .d2c_footer_wrapper p {
+        font-size: 14px;
+    }
+    .d2c_footer_card h3 {
+        margin-bottom: 24px;
+    }
+    .d2c_footer_card ul li a {
+        font-size: 17px;
+    }
+    .d2c_footer_wrapper .form-control {
+        padding: 5px 20px;
+    }
+    /* Footer End */
+    /* Copy Right Start */
+    .d2c_copy_right_wrapper p {
+        font-size: 17px;
+    }
+    #scrollBtn a i {
+        bottom: 8%;
+    }
+    /* Copy Right End */
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    /* Global Style Start */
+    section {
+        padding: 70px 0px 20px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .d2c_img_wrapper {
+        width: 97%;
+        height: 525px;
+    }
+    .btn {
+        padding: 8px 26px 7px;
+    }
+    .d2c_icon {
+        width: 24px;
+        height: 24px;
+    }
+    /* Global Style End */
+    /* Navbar Start */
+    .d2c_navbar .navbar-nav .nav-link {
+        font-size: 15px;
+        padding: 7px 23px 6px;
+    }
+    /* Navbar End */
+    /* Hero Start */
+    .d2c_hero_wrapper h4 {
+        letter-spacing: 4px;
+    }
+    h1 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .d2c_hero_wrapper h5 {
+        margin-bottom: 16px;
+        letter-spacing: 4px;
+    }
+    .d2c_hero_wrapper p {
+        padding-right: 0 !important;
+        margin-bottom: 25px;
+    }
+    .d2c_hero_wrapper .d2c_img_overlay {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_hero_wrapper img {
+        border-radius: 140px 0px 0px 0px;
+    }
+    /* Hero End */
+    /* About Start */
+    .d2c_about_wrapper p {
+        margin-bottom: 24px;
+    }
+    .d2c_about_wrapper ul li {
+        font-size: 17px;
+        padding: 7px 0px;
+        font-weight: 400;
+    }
+    .d2c_about_wrapper i {
+        font-size: 12px;
+        margin-right: 14px;
+    }
+    .d2c_about_wrapper .d2c_img_overlay {
+        border-radius: 0px 140px 0px 0px;
+    }
+    .d2c_about_wrapper img {
+        border-radius: 0px 140px 0px 0px;
+    }
+    /* About Start */
+    /* Services Start */
+    .d2c_card_child_three {
+        padding: 10px;
+    }
+    .d2c_icon_wrapper {
+        margin: 0 auto 25px;
+    }
+    .d2c_card h6 {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+    .d2c_card p {
+        font-size: 14px;
+    }
+    .d2c_icon_wrapper {
+        width: 65px;
+        height: 65px;
+    }
+    .d2c_service_icon {
+        width: 64px;
+        height: 64px;
+        font-size: 24px;
+    }
+    /* Services End */
+    /*  Counter Start */
+    .d2c_count_wrapper  {
+        padding: 60px 100px;
+    }
+    .d2c_counter_wrapper h1 {
+        font-size: 42px;
+    }
+    /*  Counter End */
+    /* Why Choose Me Start */
+    .d2c_choose_me_wrapper p {
+        font-size: 15px;
+    }
+    .d2c_choose_me_wrapper h2 {
+        margin-bottom: 14px;
+    }
+    .d2c_choose_me_wrapper h4 {
+        margin-bottom: 20px;
+    }
+    .d2c_choose_me_wrapper .d2c_icon {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+    .d2c_choose_me_wrapper .d2c_img_overlay {
+        border-radius: 140px 0px 0px 0px;
+    }
+    .d2c_choose_me_wrapper img {
+        border-radius: 140px 0px 0px 0px;
+    }
+    /* Why Choose Me End */
+    /* Call To Action Start */
+    .d2c_c2a_card {
+        padding: 50px 50px;
+    }
+    .d2c_c2a_card h2 {
+        margin-bottom: 20px;
+    }
+    .d2c_c2a_card p {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    /* Call To Action End */
+    /* Project Start */
+    .d2c_project_wrapper h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .d2c_project_wrapper .d2c_card_child_three p {
+        font-size: 14px;
+        margin-bottom: 22px;
+        padding-right: 15px;
+    }
+    .d2c_project_wrapper h4 {
+        font-size: 13px;
+    }
+    .d2c_project_wrapper ul li {
+        padding: 5px 0px;
+    }
+    /* Project End */
+    /* Partner Start */
+    .d2c_partner_box {
+        padding: 50px 80px 40px;
+    }
+    .d2c_partner_box h2 {
+        margin-bottom: 15px;
+    }
+    /* Partner End */
+    /* Testimonial Start */
+    .d2c_testimonial_wrapper h2 {
+        margin-bottom: 20px;
+    }
+    .d2c_testimonial_wrapper h4{
+        font-size: 20px;
+        line-height: 36px;
+        margin-bottom: 30px;
+    }
+    .slick-arrow {
+        width: 48px;
+        height: 48px;
+        font-size: 15px;
+    }
+    .d2c_carousel_left_btn {
+        left: -60px;
+    }
+    .d2c_carousel_right_btn {
+        right: -60px;
+    }
+    /* Testimonial End */
+    /* Contact Start */
+    .d2c_contact_wrapper {
+        padding: 70px 0px 70px;
+    }
+    /* Contact End */
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 70px 0px;
+    }
+    .d2c_footer_wrapper .form-control {
+        padding: 5px 8px;
+    }
+    .d2c_footer_card {
+        padding: 15px;
+    }
+    .d2c_footer_wrapper p {
+        font-size: 13px;
+    }
+    .d2c_footer_card ul li a {
+        font-size: 16px;
+    }
+    .d2c_footer_wrapper .btn {
+        padding: 9px 20px 8px;
+    }
+
+    #scrollBtn a i {
+        bottom: 8%;
+    }
+    /* Footer End */
+}
+
+@media only screen and (min-width:1200px) and (max-width:1500px) {
+    /* Global Style Start */
+    section {
+        padding: 80px 0px 20px;
+    }
+    h2 {
+        font-size: 42px;
+    }
+    h6 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .btn {
+        padding: 10px 30px 9px;
+    }
+    .d2c_icon {
+        width: 24px;
+        height: 24px;
+    }
+    .d2c_img_wrapper {
+        width: 100%;
+    }
+    /* Global Style End */
+
+    /* Navbar Start */
+    .d2c_navbar .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    /* Navbar End */
+    /* Hero Start */
+    h1 {
+        font-size: 60px;
+        line-height: 100%;
+    }
+    /* Hero End */
+    /* About Start */
+    .d2c_about_wrapper .d2c_img_wrapper {
+        padding-right: 25px;
+    }
+    .d2c_about_wrapper .d2c_img_overlay {
+        margin-right: 25px;
+    }
+    .d2c_about_wrapper p {
+        margin-bottom: 20px;
+    }
+    .d2c_about_wrapper ul li {
+        font-size: 16px;
+        padding: 9px 0px;
+    }
+    .d2c_about_wrapper i {
+        font-size: 14px;
+    }
+    /* About End */
+    /* Services Start */
+    .d2c_services_wrapper .d2c_card_child_three {
+        padding: 20px;
+    }
+    .d2c_card h6 {
+        margin-bottom: 16px;
+    }
+    /* Services End */
+    /* Counter Start */
+    .d2c_counter_wrapper h1 {
+        font-size: 44px;
+    }
+    /* Counter End */
+    /* Why Choose Me Start */
+    .d2c_choose_me_wrapper .d2c_icon {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+    }
+    /* Why Choose Me Start */
+    /* Project Start */
+    .d2c_project_wrapper h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .d2c_project_wrapper .d2c_card_child_three p {
+        font-size: 14px;
+        margin-bottom: 22px;
+        padding-right: 10px;
+    }
+    .d2c_project_wrapper h4 {
+        font-size: 13px;
+    }
+    .d2c_project_wrapper ul li {
+        padding: 5px 0px;
+    }
+    /* Project End */
+    /* Testimonial Start */
+    .d2c_testimonial_wrapper h2 {
+        margin-bottom: 30px;
+    }
+    .d2c_testimonial_wrapper h4{
+        font-size: 24px;
+        line-height: 41px;
+    }
+    .slick-arrow {
+        width: 48px;
+        height: 48px;
+        font-size: 16px;
+    }
+    /* Testimonial End */
+    /* Contact Start */
+    .d2c_contact_wrapper {
+        padding: 80px 0px 80px;
+    }
+    /* Contact End */
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 80px 0px;
+    }
+    .d2c_footer_wrapper .form-control {
+        padding: 9px 28px;
+    }
+    #scrollBtn a i {
+        bottom: 8%;
+    }
+    /* Footer End */
+}
+
+@media only screen and (min-width:1400px) and (max-width:1500px) {
+    p {
+        font-size: 16px;
+    }
+    .d2c_img_wrapper {
+        width: 580px;
+    }
+    .d2c_hero_wrapper p {
+        padding-right: 0 !important;
+    }
+}
+
+
+
+/* 
+    Template Name: {{CSUME V3 - Cyber Security Expert One Page Website Template}}
+    Template URL: {{https://designtocodes.com/product/csume-v3-cyber-security-expert-one-page-template}}
+    Description: {{Invest in Csume V3 onepage cyber security template today and take your cyber security expertise to new heights.}}
+    Author: DesignToCodes
+    Author URL: https://www.designtocodes.com
+    Text Domain: {{ CSUME V3 }}
+ */
