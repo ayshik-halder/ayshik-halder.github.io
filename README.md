@@ -14,7 +14,7 @@ Website is still under development as of March 2021.
 * Inclusion of Github repo links
 
 ## Licence
-    Copyright (C) 2021 Ayshik Halder. All rights reserved - Licensed under GNU General Public License
+    Copyright (C) 2025 Ayshik Halder. All rights reserved - Licensed under GNU General Public License
     
 <hr>
 <p align="center">
